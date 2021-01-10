@@ -6,7 +6,7 @@
 
         <title>CoM Danger Repo</title>
 
-        <link rel="text/css" href={{ asset('css/app.css') }} />
+        <link rel="text/css" href="{{ asset('assets/default.css') }}" />
     </head>
     <body>
         Testing. Can you see this?
