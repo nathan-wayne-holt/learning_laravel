@@ -5,8 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>CoM Danger Repo</title>
+
+        <link href="{{ asset('css/tw.css') }}"" rel="stylesheet" />
     </head>
-    <body>
+    <body class="bg-purple-400">
         Testing. Can you see this?
     </body>
 </html>
