@@ -6,7 +6,7 @@
 
         <title>CoM Danger Repo</title>
 
-        <link href="{{ asset('css/tw.css') }}"" rel="stylesheet" />
+        <link href="{{ asset('css/tw.css') }}" rel="stylesheet" />
     </head>
     <body class="bg-purple-400">
         Testing. Can you see this?
