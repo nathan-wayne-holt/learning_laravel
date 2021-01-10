@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>CoM Danger Repo</title>
+
+        <link rel="text/css" href={{ asset('css/tw.css') }} />
     </head>
     <body>
         Testing. Can you see this?
