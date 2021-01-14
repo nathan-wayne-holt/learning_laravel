@@ -8,9 +8,10 @@
 
         <link href="{{ asset('css/tw.css') }}" rel="stylesheet" />
     </head>
-    <body class="bg-purple-400">
+    <body class="bg-black text-white text-l">
         @include('header')
 
+        @include('banner')
         Testing. Can you see this?
     </body>
 </html>
